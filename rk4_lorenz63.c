@@ -5,7 +5,7 @@
 #define NEQS 3 // numero de equacoes do sistema de EDOs
 #define TSTART 0 // tempo de inicio de integracao
 #define TEND 100 // tempo final de integracao
-#define NSTEP 1000 // numero de passos da integracao
+#define NSTEP 10000 // numero de passos da integracao
 
 
 /* Funcao que implementa o sistema de EDOs a ser resolvido por runge-kutta de forma que dx/dt = f(x), x[NEQS]. */
