@@ -31,8 +31,8 @@ will call the executable, keep results in a file dots.txt and call gnuplot to cr
 
 ## TODO
 	
-	Translate comments to English
-	Include a print fuction
+1. Translate comments to English
+2. Include a print fuction
 	
 
 
