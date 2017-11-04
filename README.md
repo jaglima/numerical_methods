@@ -6,6 +6,8 @@ The integration functions are the Lorentz 1963 model.
 
 All code are commented in Brazilian Portuguese. The methods can receive systems of any dimension and some parameter are required to be adjusted inside the code (number of steps, start and end) as well as the equations system. The output must be adjusted in Main() function. 
 
+### References
+
 [Runge Kutta Classical 4th Order (RK4)](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 
 [Euler Method](https://en.wikipedia.org/wiki/Euler_method)
